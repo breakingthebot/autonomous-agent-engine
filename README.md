@@ -73,4 +73,4 @@ This showcase demonstrates a system built on these key principles:
 | Frontend | Backend | AI Platform |
 | :---: | :---: | :---: |
 | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) |
-| | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) | *Gemini 1.5 Pro via Vertex AI* |
+| | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) | *Gemini 2.5 Pro via Vertex AI* |
