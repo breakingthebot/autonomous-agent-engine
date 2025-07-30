@@ -16,7 +16,7 @@ What follows is the story of that project, told through the eyes of the speciali
 > The journey begins with the **Bootstrap_AI**. Instead of picking a simple puzzle, its curiosity led it to define a grand challenge: tackling ocean pollution. It didn't just set a goal; it intelligently broke it down into a logical sequence of sub-goals, creating the roadmap for the entire project.
 
 ![Turn 1 Context: The Bootstrap AI receives its mission](images/project-poseidon/01a-turn1-bootstrap-ai.png)
-![Turn 1 Output: The AI defines the project goal and subgoals](images/project-poseidon/01b-turn1-bootstrap_ai-goal-subgoals.png)
+![Turn 1 Output: The AI defines the project goal and subgoals](images/project-poseidon/01b-turn1-bootstrap-ai-goal-subgoals.png)
 
 ### Turn 2: The Engineer's Blueprint
 
